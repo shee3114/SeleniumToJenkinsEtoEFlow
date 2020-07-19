@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="72" started-at="2020-07-19T15:07:13Z" finished-at="2020-07-19T15:07:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="72" started-at="2020-07-19T15:07:13Z" finished-at="2020-07-19T15:07:13Z">
+      <class name="seleniumToJenkinsFlow.seleniumToJenkinsFlow.Sheetal5">
+        <test-method status="PASS" signature="testNine()[pri:0, instance:seleniumToJenkinsFlow.seleniumToJenkinsFlow.Sheetal5@6cc4c815]" name="testNine" duration-ms="4" started-at="2020-07-19T20:37:13Z" finished-at="2020-07-19T20:37:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNine -->
+        <test-method status="PASS" signature="testTen()[pri:1, instance:seleniumToJenkinsFlow.seleniumToJenkinsFlow.Sheetal5@6cc4c815]" name="testTen" duration-ms="3" started-at="2020-07-19T20:37:13Z" finished-at="2020-07-19T20:37:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTen -->
+      </class> <!-- seleniumToJenkinsFlow.seleniumToJenkinsFlow.Sheetal5 -->
+      <class name="seleniumToJenkinsFlow.seleniumToJenkinsFlow.Sheetal1">
+        <test-method status="PASS" signature="testOne()[pri:0, instance:seleniumToJenkinsFlow.seleniumToJenkinsFlow.Sheetal1@23ceabc1]" name="testOne" duration-ms="18" started-at="2020-07-19T20:37:13Z" finished-at="2020-07-19T20:37:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="testTwo()[pri:1, instance:seleniumToJenkinsFlow.seleniumToJenkinsFlow.Sheetal1@23ceabc1]" name="testTwo" duration-ms="2" started-at="2020-07-19T20:37:13Z" finished-at="2020-07-19T20:37:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+      </class> <!-- seleniumToJenkinsFlow.seleniumToJenkinsFlow.Sheetal1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
